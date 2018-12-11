@@ -5,7 +5,7 @@ Tensorflow Implementation and some visual results of SIGGRAPH'17 paper: [Interac
 We use the same architecture proposed in the paper instead we change the recurrent block to [ConvLSTM](https://arxiv.org/pdf/1506.04214.pdf) blocks.
 
 ## Data Acquisition
-We use [pbrt-v3](https://www.pbrt.org/fileformat-v3.html) to render 1 spp, 4096 spp, and auxiliary features as training pairs.
+We use [pbrt-v3](https://www.pbrt.org/fileformat-v3.html) to render 1 spp, 4096 spp, and auxiliary features as training pairs. Example input features in grey scale and reference in bathroom scene (a) 1 spp MC rendering with Halton sampler, (b) depth, (c) shading normal x-axis, (d) shading normal y-axis, (e) roughness, and (f) 4096 spp reference.
 
 ![training data](https://github.com/yuyingyeh/rdae/blob/master/fig_features.png)
 
