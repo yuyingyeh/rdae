@@ -10,4 +10,5 @@ We use [pbrt-v3](https://www.pbrt.org/fileformat-v3.html) to render 1 spp, 4096 
 ![training data]()
 
 ## Visual Results
-![video](https://github.com/.gif "video")
+![video1](https://github.com/yuyingyeh/rdae/blob/master/m4outVideo.gif "video1")
+![video2](https://github.com/yuyingyeh/rdae/blob/master/m4outVideo2.gif "video2")
