@@ -9,6 +9,8 @@ We use [pbrt-v3](https://www.pbrt.org/fileformat-v3.html) to render 1 spp, 4096 
 
 ![training data]()
 
+![training ]()
+
 ## Visual Results
 Right: Noisy 1 spp input RGB sequence
 
