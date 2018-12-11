@@ -7,9 +7,10 @@ We use the same architecture proposed in the paper instead we change the recurre
 ## Data Acquisition
 We use [pbrt-v3](https://www.pbrt.org/fileformat-v3.html) to render 1 spp, 4096 spp, and auxiliary features as training pairs.
 
-![training data]()
+![training data](https://github.com/yuyingyeh/rdae/blob/master/fig_features.png)
 
-![training ]()
+Example of our training sequence:
+![training sequence](https://github.com/yuyingyeh/rdae/blob/master/fig_sequence.png)
 
 ## Visual Results
 Right: Noisy 1 spp input RGB sequence
