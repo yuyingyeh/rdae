@@ -11,8 +11,11 @@ We use [pbrt-v3](https://www.pbrt.org/fileformat-v3.html) to render 1 spp, 4096 
 
 ## Visual Results
 Right: Noisy 1 spp input RGB sequence
+
 Middle: Reconstructed sequence
+
 Left: Reference 4096 spp sequence
+
 ![video1](https://github.com/yuyingyeh/rdae/blob/master/m4outVideo.gif "video1")
 
 ![video2](https://github.com/yuyingyeh/rdae/blob/master/m4outVideo2.gif "video2")
